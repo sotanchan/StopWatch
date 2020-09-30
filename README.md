@@ -5,7 +5,7 @@ tkinterで作成しました。
 stopwatch.py
 →基本的なストップウォッチの機能（スタート、ストップ、リセット、ラップ、スプリット）
 
-stopwatc2.py
+stopwatch2.py
 →stopwatch.pyをclassで書き直したもの。
 
 stopwatch3.py
